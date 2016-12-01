@@ -1,4 +1,4 @@
-# Campo Lógico-Minado
+﻿# Campo Lógico-Minado
 Projeto de Campo Lógico-Minado formado por Matriz 4x4 de LEDs
 Projeto de entretenimento com raciocínio lógico.
 
@@ -37,6 +37,9 @@ Você tem quatro tentativas de seleção, após isso o jogo reinicia.
 - Timers para funções de comunicação
 - Multiplexação da Matriz
 - Detecção de estado lógico de pinos
+
+Link para vídeo no Youtube:
+https://www.youtube.com/watch?v=IM6cZgWwwik
 
 
 Projeto originalmente desenvolvido para a disciplina EEL7013 - Laboratório de Transdutores
