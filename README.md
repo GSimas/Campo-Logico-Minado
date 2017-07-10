@@ -1,5 +1,9 @@
 # PT_BR
 # Campo Lógico-Minado
+
+> "Quem pensa pouco, erra muito" - **Leonardo Da Vinci**
+
+
 Projeto de Campo Lógico-Minado formado por Matriz 4x4 de LEDs
 Projeto de entretenimento com raciocínio lógico.
 
